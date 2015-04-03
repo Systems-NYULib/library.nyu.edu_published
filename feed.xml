@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>NYU</title>
+    <link>http://libtechnyu.siteleaf.net</link>
+    <pubDate>Fri, 03 Apr 2015 16:51:42 -0000</pubDate>
+    
+    <item>
+      <title>Jack Brause Library</title>
+      <link>http://libtechnyu.siteleaf.net/hours/jack-brause-library</link>
+      <pubDate>Thu, 02 Apr 2015 15:04:00 +0000</pubDate>
+      <author>Nadaleen  Tempelman-Kluit</author>
+      <guid>http://libtechnyu.siteleaf.net/hours/jack-brause-library</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NYU Abu Dhabi Library</title>
+      <link>http://libtechnyu.siteleaf.net/hours/nyu-abu-dhabi-library</link>
+      <pubDate>Tue, 31 Mar 2015 14:37:00 +0000</pubDate>
+      <author>Amay Yadav</author>
+      <guid>http://libtechnyu.siteleaf.net/hours/nyu-abu-dhabi-library</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IFA Conservation Center Library</title>
+      <link>http://libtechnyu.siteleaf.net/hours/ifa-conservation-center-library</link>
+      <pubDate>Mon, 30 Mar 2015 17:44:00 +0000</pubDate>
+      <author> </author>
+      <guid>http://libtechnyu.siteleaf.net/hours/ifa-conservation-center-library</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IFA Stephen Chan Library of Fine Arts</title>
+      <link>http://libtechnyu.siteleaf.net/hours/ifa-stephen-chan-library-of-fine-arts</link>
+      <pubDate>Mon, 30 Mar 2015 17:43:00 +0000</pubDate>
+      <author>Amay Yadav</author>
+      <guid>http://libtechnyu.siteleaf.net/hours/ifa-stephen-chan-library-of-fine-arts</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Institute for the Study of the Ancient World Library</title>
+      <link>http://libtechnyu.siteleaf.net/hours/institute-for-the-study-of-the-ancient-world-library</link>
+      <pubDate>Fri, 27 Mar 2015 17:54:00 +0000</pubDate>
+      <author>Amay Yadav</author>
+      <guid>http://libtechnyu.siteleaf.net/hours/institute-for-the-study-of-the-ancient-world-library</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NYU Shanghai Library</title>
+      <link>http://libtechnyu.siteleaf.net/hours/nyu-shanghai-library</link>
+      <pubDate>Fri, 27 Mar 2015 17:54:00 +0000</pubDate>
+      <author>Amay Yadav</author>
+      <guid>http://libtechnyu.siteleaf.net/hours/nyu-shanghai-library</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bern Dibner Library of Science and Technology</title>
+      <link>http://libtechnyu.siteleaf.net/hours/bern-dibner-library-of-science-and-technology</link>
+      <pubDate>Fri, 27 Mar 2015 17:54:00 +0000</pubDate>
+      <author>Amay Yadav</author>
+      <guid>http://libtechnyu.siteleaf.net/hours/bern-dibner-library-of-science-and-technology</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elmer Holmes Bobst Library</title>
+      <link>http://libtechnyu.siteleaf.net/hours/elmer-holmes-bobst-library</link>
+      <pubDate>Fri, 27 Mar 2015 17:51:00 +0000</pubDate>
+      <author>Amay Yadav</author>
+      <guid>http://libtechnyu.siteleaf.net/hours/elmer-holmes-bobst-library</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

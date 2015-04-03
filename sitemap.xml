@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>http://libtechnyu.siteleaf.net/</loc>
+    <lastmod>2015-03-27T17:42:11+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://libtechnyu.siteleaf.net/hours</loc>
+    <lastmod>2015-03-27T17:42:17+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://libtechnyu.siteleaf.net/hours/jack-brause-library</loc>
+    <lastmod>2015-04-02T15:04:55+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://libtechnyu.siteleaf.net/hours/nyu-abu-dhabi-library</loc>
+    <lastmod>2015-03-31T14:38:41+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://libtechnyu.siteleaf.net/hours/ifa-conservation-center-library</loc>
+    <lastmod>2015-03-30T17:45:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://libtechnyu.siteleaf.net/hours/ifa-stephen-chan-library-of-fine-arts</loc>
+    <lastmod>2015-03-30T17:55:58+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://libtechnyu.siteleaf.net/hours/institute-for-the-study-of-the-ancient-world-library</loc>
+    <lastmod>2015-03-27T17:54:36+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://libtechnyu.siteleaf.net/hours/nyu-shanghai-library</loc>
+    <lastmod>2015-03-27T17:54:27+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://libtechnyu.siteleaf.net/hours/bern-dibner-library-of-science-and-technology</loc>
+    <lastmod>2015-03-27T17:54:17+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://libtechnyu.siteleaf.net/hours/elmer-holmes-bobst-library</loc>
+    <lastmod>2015-03-27T17:52:49+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+
+</urlset>

@@ -1,0 +1,84 @@
+---
+time: 1428079908
+inventory:
+  /home/index.html:
+    md5: f878639f692b028992d8badd4b2477bf
+    time: 1428079900
+  /index.html:
+    md5: f878639f692b028992d8badd4b2477bf
+    time: 1428079900
+  /hours/index.html:
+    md5: 15b40e4f38c6b0527e4588142ca3af69
+    time: 1428079900
+  /hours/jack-brause-library/index.html:
+    md5: 7198dcb28370976225f26aa192e4114e
+    time: 1428079900
+  /hours/nyu-abu-dhabi-library/index.html:
+    md5: 0570d72aa6f124f5b6355fbd88789766
+    time: 1428079900
+  /hours/ifa-conservation-center-library/index.html:
+    md5: 808dd037e13d6e834c1122fda5f4eaf5
+    time: 1428079901
+  /hours/ifa-stephen-chan-library-of-fine-arts/index.html:
+    md5: 95088709dd5e525f45d0f9200a0e23ae
+    time: 1428079901
+  /hours/institute-for-the-study-of-the-ancient-world-library/index.html:
+    md5: d6109b43c8a953fdd3314e1d1b1a585c
+    time: 1428079901
+  /hours/nyu-shanghai-library/index.html:
+    md5: ddc24fc7a2c7148ff93bb02f1817ab37
+    time: 1428079901
+  /hours/bern-dibner-library-of-science-and-technology/index.html:
+    md5: 09003df440e01e929e57d984271ddd35
+    time: 1428079901
+  /hours/elmer-holmes-bobst-library/index.html:
+    md5: bf7e0e6def154ac30ac87719f4b8deb8
+    time: 1428079901
+  /hours/archive/index.html:
+    md5: 0906a25974f3fb5988b0da1e19df67da
+    time: 1428079901
+  /hours/tags/index.html:
+    md5: 236bdc2b4f257e92d46da0d8e274d4bd
+    time: 1428079902
+  /CNAME:
+    md5: 21dad616a2532ac58c82bce1cb458ef2
+    time: 1428079902
+  /sitemap.xml:
+    md5: a82964947602a8f9bbdf0c010cf58ba3
+    time: 1428079902
+  /feed.xml:
+    md5: 9c497de76d5ff9affab057956e73cb1c
+    time: 1428079902
+  /images/ic_expand_less_48px.svg:
+    md5: cc38c984020c451526d7d4ca793f34fb
+    time: 1428079902
+  /images/ic_expand_more_48px.svg:
+    md5: f60546e55e2dc089d49e742039855fc1
+    time: 1428079902
+  /images/ic_call_48px.svg:
+    md5: 62dd53e702baf1b3aeef13c41bb283a5
+    time: 1428079902
+  /images/ic_email_48px.svg:
+    md5: d0631a99bac1de6711a6bd615220f36d
+    time: 1428079903
+  /images/banner2.gif:
+    md5: 6d053d08e294511653c4931a8a6b25cd
+    time: 1428079903
+  /images/nyulibrarieslogo.png:
+    md5: c5efaeb7ff48e3f2bcee276238d83baa
+    time: 1428079903
+  /css/style.css:
+    md5: 98462af93e1cb22206c4feae5b1af67e
+    time: 1428079903
+  /css/hours.css:
+    md5: 6f125befdfe3fe47b9ee15166780119c
+    time: 1428079904
+  /js/pullhours.js:
+    md5: d41d8cd98f00b204e9800998ecf8427e
+    time: 1428079904
+  /js/json_hours_get.js:
+    md5: 99fa11f069a4087cddd640e08a43b334
+    time: 1428079904
+  /_includes/header.html~:
+    md5: 26f2c9b088867f55eef2d29a85bd8261
+    time: 1428079904
