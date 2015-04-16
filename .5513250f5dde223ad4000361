@@ -1,45 +1,45 @@
 ---
-time: 1428079908
+time: 1428942120
 inventory:
   /home/index.html:
-    md5: f878639f692b028992d8badd4b2477bf
-    time: 1428079900
+    md5: 5e785a30226448217ebeacc49e407a98
+    time: 1428942117
   /index.html:
-    md5: f878639f692b028992d8badd4b2477bf
-    time: 1428079900
+    md5: 5e785a30226448217ebeacc49e407a98
+    time: 1428942117
   /hours/index.html:
-    md5: 15b40e4f38c6b0527e4588142ca3af69
-    time: 1428079900
+    md5: 9966baae405519d46f4715861d607159
+    time: 1428942118
   /hours/jack-brause-library/index.html:
-    md5: 7198dcb28370976225f26aa192e4114e
-    time: 1428079900
+    md5: 55e523042251d9bcf95fe35ae51db130
+    time: 1428942118
   /hours/nyu-abu-dhabi-library/index.html:
-    md5: 0570d72aa6f124f5b6355fbd88789766
-    time: 1428079900
+    md5: c5d36c943c6efaf8a20e737cb8195c46
+    time: 1428942118
   /hours/ifa-conservation-center-library/index.html:
-    md5: 808dd037e13d6e834c1122fda5f4eaf5
-    time: 1428079901
+    md5: 67d6b26a3636571d644a973a0376d961
+    time: 1428942118
   /hours/ifa-stephen-chan-library-of-fine-arts/index.html:
-    md5: 95088709dd5e525f45d0f9200a0e23ae
-    time: 1428079901
+    md5: 7fe7bb9d79e575348365f097bab25f84
+    time: 1428942118
   /hours/institute-for-the-study-of-the-ancient-world-library/index.html:
-    md5: d6109b43c8a953fdd3314e1d1b1a585c
-    time: 1428079901
+    md5: 5cf17f44dfec744225c19990b49126c7
+    time: 1428942118
   /hours/nyu-shanghai-library/index.html:
-    md5: ddc24fc7a2c7148ff93bb02f1817ab37
-    time: 1428079901
+    md5: 05ec1b9f4d950b92027235f5abc0bb19
+    time: 1428942118
   /hours/bern-dibner-library-of-science-and-technology/index.html:
-    md5: 09003df440e01e929e57d984271ddd35
-    time: 1428079901
+    md5: 12693695f9f07fbcc2534a0b866dde7b
+    time: 1428942118
   /hours/elmer-holmes-bobst-library/index.html:
-    md5: bf7e0e6def154ac30ac87719f4b8deb8
-    time: 1428079901
+    md5: 783937ca7d488b111d7b945b2306aeaf
+    time: 1428942118
   /hours/archive/index.html:
-    md5: 0906a25974f3fb5988b0da1e19df67da
-    time: 1428079901
+    md5: 88d25685d20a38c2d2b45a4752ea7c6c
+    time: 1428942118
   /hours/tags/index.html:
-    md5: 236bdc2b4f257e92d46da0d8e274d4bd
-    time: 1428079902
+    md5: 08a8fca24f2ee9ba4db17bdb40fe6390
+    time: 1428942118
   /CNAME:
     md5: 21dad616a2532ac58c82bce1cb458ef2
     time: 1428079902
@@ -47,8 +47,8 @@ inventory:
     md5: a82964947602a8f9bbdf0c010cf58ba3
     time: 1428079902
   /feed.xml:
-    md5: 9c497de76d5ff9affab057956e73cb1c
-    time: 1428079902
+    md5: abfc565ac98a38acc414bf0fbba442ab
+    time: 1428942118
   /images/ic_expand_less_48px.svg:
     md5: cc38c984020c451526d7d4ca793f34fb
     time: 1428079902
