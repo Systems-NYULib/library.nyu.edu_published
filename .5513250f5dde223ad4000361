@@ -1,54 +1,63 @@
 ---
-time: 1428942120
+time: 1429212175
 inventory:
   /home/index.html:
-    md5: 5e785a30226448217ebeacc49e407a98
-    time: 1428942117
+    md5: 42e00457bd28eb5f4f2decef79a688b3
+    time: 1429212170
   /index.html:
-    md5: 5e785a30226448217ebeacc49e407a98
-    time: 1428942117
+    md5: 42e00457bd28eb5f4f2decef79a688b3
+    time: 1429212170
   /hours/index.html:
-    md5: 9966baae405519d46f4715861d607159
-    time: 1428942118
+    md5: 570e72c1c5a22b27ed287612ebe2e2ff
+    time: 1429212171
   /hours/jack-brause-library/index.html:
-    md5: 55e523042251d9bcf95fe35ae51db130
-    time: 1428942118
+    md5: e0763f74eaa5ead278e892152f8b22ad
+    time: 1429212171
   /hours/nyu-abu-dhabi-library/index.html:
-    md5: c5d36c943c6efaf8a20e737cb8195c46
-    time: 1428942118
+    md5: 56a8368126fcfcd1bedc6bf4bad46ae5
+    time: 1429212171
   /hours/ifa-conservation-center-library/index.html:
-    md5: 67d6b26a3636571d644a973a0376d961
-    time: 1428942118
+    md5: 3a0b3e27a85bf9bed715691d873ac643
+    time: 1429212171
   /hours/ifa-stephen-chan-library-of-fine-arts/index.html:
-    md5: 7fe7bb9d79e575348365f097bab25f84
-    time: 1428942118
+    md5: 8b58b82db3023f9480c6321d52e1331b
+    time: 1429212171
   /hours/institute-for-the-study-of-the-ancient-world-library/index.html:
-    md5: 5cf17f44dfec744225c19990b49126c7
-    time: 1428942118
+    md5: b8338df6c0c71bd0de4ea49418bea040
+    time: 1429212171
   /hours/nyu-shanghai-library/index.html:
-    md5: 05ec1b9f4d950b92027235f5abc0bb19
-    time: 1428942118
+    md5: 0d4802d596667158db4201a621f87a1a
+    time: 1429212171
   /hours/bern-dibner-library-of-science-and-technology/index.html:
-    md5: 12693695f9f07fbcc2534a0b866dde7b
-    time: 1428942118
+    md5: aa57984efc70cfadd56818de98d09b04
+    time: 1429212171
   /hours/elmer-holmes-bobst-library/index.html:
-    md5: 783937ca7d488b111d7b945b2306aeaf
-    time: 1428942118
+    md5: e135520e3bcc997cbe20884047696695
+    time: 1429212172
   /hours/archive/index.html:
-    md5: 88d25685d20a38c2d2b45a4752ea7c6c
-    time: 1428942118
+    md5: 063af6450384b040d104bb749ce46625
+    time: 1429212172
   /hours/tags/index.html:
-    md5: 08a8fca24f2ee9ba4db17bdb40fe6390
-    time: 1428942118
+    md5: ef1ff870709cf3dd4adef56dc2eb4cfe
+    time: 1429212172
+  /departments/index.html:
+    md5: 77f1b7f5a5fe979adc034922aef8ed52
+    time: 1429212172
+  /departments/user-experience/index.html:
+    md5: 5d64ded9ca56280533a8c541fba0f1cc
+    time: 1429212172
+  /departments/digital-stuido/index.html:
+    md5: 607ae736ac6df93292332988f4d97d9d
+    time: 1429212172
   /CNAME:
-    md5: 21dad616a2532ac58c82bce1cb458ef2
-    time: 1428079902
+    md5: f1d4f9fe60cce3bc1c2b51c0b1a52459
+    time: 1429212172
   /sitemap.xml:
-    md5: a82964947602a8f9bbdf0c010cf58ba3
-    time: 1428079902
+    md5: a61030aec5d004776eeeede1382884dc
+    time: 1429212172
   /feed.xml:
-    md5: abfc565ac98a38acc414bf0fbba442ab
-    time: 1428942118
+    md5: d73e77b93cc29996bdbfa0beb5cdd292
+    time: 1429212172
   /images/ic_expand_less_48px.svg:
     md5: cc38c984020c451526d7d4ca793f34fb
     time: 1428079902
