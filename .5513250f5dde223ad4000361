@@ -1,54 +1,54 @@
 ---
-time: 1429894757
+time: 1429896369
 inventory:
   /home/index.html:
-    md5: 7f0fbd3f2d865df696880b9a5890cfe4
-    time: 1429894754
+    md5: e13da0d1ca372f0f2ed4469bf08a325d
+    time: 1429896366
   /index.html:
-    md5: 7f0fbd3f2d865df696880b9a5890cfe4
-    time: 1429894754
+    md5: e13da0d1ca372f0f2ed4469bf08a325d
+    time: 1429896366
   /hours/index.html:
-    md5: 7a202304626b3b6f73bd84135a3317b6
-    time: 1429894754
+    md5: a7a3de064a2c81081a1af77ede6f01b5
+    time: 1429896366
   /hours/jack-brause-library/index.html:
-    md5: 298a0eecb352d97488cca180b75aea2c
-    time: 1429894754
+    md5: da6a3d2b6f518d83f94c1839e3c3fa88
+    time: 1429896366
   /hours/nyu-abu-dhabi-library/index.html:
-    md5: 2bf83a6c87c65184162a325e7b84eff7
-    time: 1429894754
+    md5: 3ba92ecb974e5bc91b3c63c6ddcc071a
+    time: 1429896366
   /hours/ifa-conservation-center-library/index.html:
-    md5: fc9bc97889c20e5657f8216b91fd0533
-    time: 1429894754
+    md5: 68a8a1dcf4132807a79454946d579052
+    time: 1429896366
   /hours/ifa-stephen-chan-library-of-fine-arts/index.html:
-    md5: b409ad8dec545c38d5397b592448e0cf
-    time: 1429894754
+    md5: 824e60b67edff1b1ea398acd2c14e90d
+    time: 1429896366
   /hours/institute-for-the-study-of-the-ancient-world-library/index.html:
-    md5: 0359d21be1f863cd063daa7563d241bd
-    time: 1429894754
+    md5: dcdfc7abc04d2f1f1802b9cb817b3b99
+    time: 1429896366
   /hours/nyu-shanghai-library/index.html:
-    md5: fc8342b517f7aa8a5fc9873a35a61e08
-    time: 1429894754
+    md5: 9652ff5c8cda2d74639775a93d2a0ea7
+    time: 1429896366
   /hours/bern-dibner-library-of-science-and-technology/index.html:
-    md5: f957607abd0d879f90a92a70fe10583c
-    time: 1429894754
+    md5: 01e70bb046e0c07223f7e597d9781380
+    time: 1429896366
   /hours/elmer-holmes-bobst-library/index.html:
-    md5: ce3cb5ffd4a0322ef45b54f5ab849a5f
-    time: 1429894754
+    md5: 364283b7f90bbd534ca0966d391727e9
+    time: 1429896366
   /hours/archive/index.html:
-    md5: 81461d3051117c3d5c1951eb8f901849
-    time: 1429894755
+    md5: a419b4f09145cc43a7c94b279d47230c
+    time: 1429896366
   /hours/tags/index.html:
-    md5: 5122a12558662ab80349a708c3f76d29
-    time: 1429894755
+    md5: 20f5670f02a6cf13f2dedff1051a3996
+    time: 1429896366
   /departments/index.html:
-    md5: fd3cfdcaf34ee5cf45d862cd502e1343
-    time: 1429894755
+    md5: abe760c567224a52318671e75cb87e45
+    time: 1429896366
   /departments/user-experience/index.html:
-    md5: 266415e6f26a843cab96d485beedb87b
-    time: 1429894755
+    md5: f50abf7f11d0f4a478df1ecfc57ab1f5
+    time: 1429896366
   /departments/digital-stuido/index.html:
-    md5: 945916128f6e0c2f92e771abafb63705
-    time: 1429894755
+    md5: c056fb8daf016180162c3c863afac8b7
+    time: 1429896366
   /CNAME:
     md5: f1d4f9fe60cce3bc1c2b51c0b1a52459
     time: 1429212172
@@ -56,8 +56,8 @@ inventory:
     md5: 54b18d6e14d3626b63f5f69a2185b1c7
     time: 1429885664
   /feed.xml:
-    md5: 30435eeaf53faf03ba7b76eb43369c6c
-    time: 1429894755
+    md5: ab81a098fbfa7547d1608a745fad186a
+    time: 1429896366
   /images/ic_expand_less_48px.svg:
     md5: cc38c984020c451526d7d4ca793f34fb
     time: 1428079902
@@ -81,9 +81,6 @@ inventory:
     time: 1428079903
   /css/hours.css:
     md5: 6f125befdfe3fe47b9ee15166780119c
-    time: 1428079904
-  /js/pullhours.js:
-    md5: d41d8cd98f00b204e9800998ecf8427e
     time: 1428079904
   /js/json_hours_get.js:
     md5: 99fa11f069a4087cddd640e08a43b334
