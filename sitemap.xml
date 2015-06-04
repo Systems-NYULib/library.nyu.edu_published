@@ -9,63 +9,84 @@
   
 
   <url>
-    <loc>http://nyulibraries.siteleaf.net/hours</loc>
-    <lastmod>2015-03-27T17:42:17+00:00</lastmod>
+    <loc>http://nyulibraries.siteleaf.net/search</loc>
+    <lastmod>2015-05-29T21:07:31+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://nyulibraries.siteleaf.net/locations-hours</loc>
+    <lastmod>2015-05-29T21:07:46+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://nyulibraries.siteleaf.net/hours/jack-brause-library</loc>
+    <loc>http://nyulibraries.siteleaf.net/locations-hours/jack-brause-library</loc>
     <lastmod>2015-04-02T15:04:55+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://nyulibraries.siteleaf.net/hours/nyu-abu-dhabi-library</loc>
+    <loc>http://nyulibraries.siteleaf.net/locations-hours/nyu-abu-dhabi-library</loc>
     <lastmod>2015-03-31T14:38:41+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://nyulibraries.siteleaf.net/hours/ifa-conservation-center-library</loc>
+    <loc>http://nyulibraries.siteleaf.net/locations-hours/ifa-conservation-center-library</loc>
     <lastmod>2015-03-30T17:45:00+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://nyulibraries.siteleaf.net/hours/ifa-stephen-chan-library-of-fine-arts</loc>
+    <loc>http://nyulibraries.siteleaf.net/locations-hours/ifa-stephen-chan-library-of-fine-arts</loc>
     <lastmod>2015-03-30T17:55:58+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://nyulibraries.siteleaf.net/hours/institute-for-the-study-of-the-ancient-world-library</loc>
+    <loc>http://nyulibraries.siteleaf.net/locations-hours/institute-for-the-study-of-the-ancient-world-library</loc>
     <lastmod>2015-03-27T17:54:36+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://nyulibraries.siteleaf.net/hours/nyu-shanghai-library</loc>
+    <loc>http://nyulibraries.siteleaf.net/locations-hours/nyu-shanghai-library</loc>
     <lastmod>2015-03-27T17:54:27+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://nyulibraries.siteleaf.net/hours/bern-dibner-library-of-science-and-technology</loc>
+    <loc>http://nyulibraries.siteleaf.net/locations-hours/bern-dibner-library-of-science-and-technology</loc>
     <lastmod>2015-03-27T17:54:17+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://nyulibraries.siteleaf.net/hours/elmer-holmes-bobst-library</loc>
+    <loc>http://nyulibraries.siteleaf.net/locations-hours/elmer-holmes-bobst-library</loc>
     <lastmod>2015-03-27T17:52:49+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
 
   <url>
-    <loc>http://nyulibraries.siteleaf.net/departments</loc>
-    <lastmod>2015-04-16T21:15:59+00:00</lastmod>
+    <loc>http://nyulibraries.siteleaf.net/services-information</loc>
+    <lastmod>2015-05-29T21:07:36+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://nyulibraries.siteleaf.net/people-departments</loc>
+    <lastmod>2015-05-29T21:05:05+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://nyulibraries.siteleaf.net/about</loc>
+    <lastmod>2015-05-29T21:07:15+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   

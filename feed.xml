@@ -1,79 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>NYU</title>
+    <title>dev.library.nyu.edu</title>
     <link>http://nyulibraries.siteleaf.net</link>
-    <pubDate>Fri, 24 Apr 2015 17:26:06 -0000</pubDate>
+    <pubDate>Thu, 04 Jun 2015 16:11:56 -0000</pubDate>
+    
+    <item>
+      <title>Updates &amp; Events</title>
+      <link>http://nyulibraries.siteleaf.net/people-departments/digitalstudio/updates-events</link>
+      <pubDate>Thu, 04 Jun 2015 15:40:00 +0000</pubDate>
+      <author>Iris Bierlein</author>
+      <guid>http://nyulibraries.siteleaf.net/people-departments/digitalstudio/updates-events</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What We Do</title>
+      <link>http://nyulibraries.siteleaf.net/people-departments/digitalstudio/what-we-do</link>
+      <pubDate>Thu, 04 Jun 2015 15:09:00 +0000</pubDate>
+      <author>Iris Bierlein</author>
+      <guid>http://nyulibraries.siteleaf.net/people-departments/digitalstudio/what-we-do</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who We Are</title>
+      <link>http://nyulibraries.siteleaf.net/people-departments/digitalstudio/who-we-are</link>
+      <pubDate>Thu, 04 Jun 2015 15:07:00 +0000</pubDate>
+      <author>Iris Bierlein</author>
+      <guid>http://nyulibraries.siteleaf.net/people-departments/digitalstudio/who-we-are</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact Information</title>
+      <link>http://nyulibraries.siteleaf.net/people-departments/digitalstudio/contact-information</link>
+      <pubDate>Mon, 01 Jun 2015 14:56:00 +0000</pubDate>
+      <author>Iris Bierlein</author>
+      <guid>http://nyulibraries.siteleaf.net/people-departments/digitalstudio/contact-information</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jack Brause Library</title>
-      <link>http://nyulibraries.siteleaf.net/hours/jack-brause-library</link>
+      <link>http://nyulibraries.siteleaf.net/locations-hours/jack-brause-library</link>
       <pubDate>Thu, 02 Apr 2015 15:04:00 +0000</pubDate>
       <author>Nadaleen  Tempelman-Kluit</author>
-      <guid>http://nyulibraries.siteleaf.net/hours/jack-brause-library</guid>
+      <guid>http://nyulibraries.siteleaf.net/locations-hours/jack-brause-library</guid>
       <description></description>
     </item>
     
     <item>
       <title>NYU Abu Dhabi Library</title>
-      <link>http://nyulibraries.siteleaf.net/hours/nyu-abu-dhabi-library</link>
+      <link>http://nyulibraries.siteleaf.net/locations-hours/nyu-abu-dhabi-library</link>
       <pubDate>Tue, 31 Mar 2015 14:37:00 +0000</pubDate>
       <author>Amay Yadav</author>
-      <guid>http://nyulibraries.siteleaf.net/hours/nyu-abu-dhabi-library</guid>
+      <guid>http://nyulibraries.siteleaf.net/locations-hours/nyu-abu-dhabi-library</guid>
       <description></description>
     </item>
     
     <item>
       <title>IFA Conservation Center Library</title>
-      <link>http://nyulibraries.siteleaf.net/hours/ifa-conservation-center-library</link>
+      <link>http://nyulibraries.siteleaf.net/locations-hours/ifa-conservation-center-library</link>
       <pubDate>Mon, 30 Mar 2015 17:44:00 +0000</pubDate>
       <author>Iris Bierlein</author>
-      <guid>http://nyulibraries.siteleaf.net/hours/ifa-conservation-center-library</guid>
+      <guid>http://nyulibraries.siteleaf.net/locations-hours/ifa-conservation-center-library</guid>
       <description></description>
     </item>
     
     <item>
       <title>IFA Stephen Chan Library of Fine Arts</title>
-      <link>http://nyulibraries.siteleaf.net/hours/ifa-stephen-chan-library-of-fine-arts</link>
+      <link>http://nyulibraries.siteleaf.net/locations-hours/ifa-stephen-chan-library-of-fine-arts</link>
       <pubDate>Mon, 30 Mar 2015 17:43:00 +0000</pubDate>
       <author>Amay Yadav</author>
-      <guid>http://nyulibraries.siteleaf.net/hours/ifa-stephen-chan-library-of-fine-arts</guid>
+      <guid>http://nyulibraries.siteleaf.net/locations-hours/ifa-stephen-chan-library-of-fine-arts</guid>
       <description></description>
     </item>
     
     <item>
       <title>Institute for the Study of the Ancient World Library</title>
-      <link>http://nyulibraries.siteleaf.net/hours/institute-for-the-study-of-the-ancient-world-library</link>
+      <link>http://nyulibraries.siteleaf.net/locations-hours/institute-for-the-study-of-the-ancient-world-library</link>
       <pubDate>Fri, 27 Mar 2015 17:54:00 +0000</pubDate>
       <author>Amay Yadav</author>
-      <guid>http://nyulibraries.siteleaf.net/hours/institute-for-the-study-of-the-ancient-world-library</guid>
+      <guid>http://nyulibraries.siteleaf.net/locations-hours/institute-for-the-study-of-the-ancient-world-library</guid>
       <description></description>
     </item>
     
     <item>
       <title>NYU Shanghai Library</title>
-      <link>http://nyulibraries.siteleaf.net/hours/nyu-shanghai-library</link>
+      <link>http://nyulibraries.siteleaf.net/locations-hours/nyu-shanghai-library</link>
       <pubDate>Fri, 27 Mar 2015 17:54:00 +0000</pubDate>
       <author>Amay Yadav</author>
-      <guid>http://nyulibraries.siteleaf.net/hours/nyu-shanghai-library</guid>
+      <guid>http://nyulibraries.siteleaf.net/locations-hours/nyu-shanghai-library</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bern Dibner Library of Science and Technology</title>
-      <link>http://nyulibraries.siteleaf.net/hours/bern-dibner-library-of-science-and-technology</link>
+      <link>http://nyulibraries.siteleaf.net/locations-hours/bern-dibner-library-of-science-and-technology</link>
       <pubDate>Fri, 27 Mar 2015 17:54:00 +0000</pubDate>
       <author>Amay Yadav</author>
-      <guid>http://nyulibraries.siteleaf.net/hours/bern-dibner-library-of-science-and-technology</guid>
+      <guid>http://nyulibraries.siteleaf.net/locations-hours/bern-dibner-library-of-science-and-technology</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elmer Holmes Bobst Library</title>
-      <link>http://nyulibraries.siteleaf.net/hours/elmer-holmes-bobst-library</link>
+      <link>http://nyulibraries.siteleaf.net/locations-hours/elmer-holmes-bobst-library</link>
       <pubDate>Fri, 27 Mar 2015 17:51:00 +0000</pubDate>
       <author>Amay Yadav</author>
-      <guid>http://nyulibraries.siteleaf.net/hours/elmer-holmes-bobst-library</guid>
+      <guid>http://nyulibraries.siteleaf.net/locations-hours/elmer-holmes-bobst-library</guid>
       <description></description>
     </item>
     

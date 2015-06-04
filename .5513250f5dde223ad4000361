@@ -1,90 +1,120 @@
 ---
-time: 1429896369
+time: 1433434327
 inventory:
-  /home/index.html:
-    md5: e13da0d1ca372f0f2ed4469bf08a325d
-    time: 1429896366
-  /index.html:
-    md5: e13da0d1ca372f0f2ed4469bf08a325d
-    time: 1429896366
-  /hours/index.html:
-    md5: a7a3de064a2c81081a1af77ede6f01b5
-    time: 1429896366
-  /hours/jack-brause-library/index.html:
-    md5: da6a3d2b6f518d83f94c1839e3c3fa88
-    time: 1429896366
-  /hours/nyu-abu-dhabi-library/index.html:
-    md5: 3ba92ecb974e5bc91b3c63c6ddcc071a
-    time: 1429896366
-  /hours/ifa-conservation-center-library/index.html:
-    md5: 68a8a1dcf4132807a79454946d579052
-    time: 1429896366
-  /hours/ifa-stephen-chan-library-of-fine-arts/index.html:
-    md5: 824e60b67edff1b1ea398acd2c14e90d
-    time: 1429896366
-  /hours/institute-for-the-study-of-the-ancient-world-library/index.html:
-    md5: dcdfc7abc04d2f1f1802b9cb817b3b99
-    time: 1429896366
-  /hours/nyu-shanghai-library/index.html:
-    md5: 9652ff5c8cda2d74639775a93d2a0ea7
-    time: 1429896366
-  /hours/bern-dibner-library-of-science-and-technology/index.html:
-    md5: 01e70bb046e0c07223f7e597d9781380
-    time: 1429896366
-  /hours/elmer-holmes-bobst-library/index.html:
-    md5: 364283b7f90bbd534ca0966d391727e9
-    time: 1429896366
-  /hours/archive/index.html:
-    md5: a419b4f09145cc43a7c94b279d47230c
-    time: 1429896366
-  /hours/tags/index.html:
-    md5: 20f5670f02a6cf13f2dedff1051a3996
-    time: 1429896366
-  /departments/index.html:
-    md5: abe760c567224a52318671e75cb87e45
-    time: 1429896366
-  /departments/user-experience/index.html:
-    md5: f50abf7f11d0f4a478df1ecfc57ab1f5
-    time: 1429896366
-  /departments/digital-stuido/index.html:
-    md5: c056fb8daf016180162c3c863afac8b7
-    time: 1429896366
-  /CNAME:
+  "/home/index.html":
+    md5: 14b356ccb87006cd70adab5a15e5de2e
+    time: 1433434313
+  "/index.html":
+    md5: 14b356ccb87006cd70adab5a15e5de2e
+    time: 1433434313
+  "/search/index.html":
+    md5: c45318479232c3a389704b52c2db9c63
+    time: 1433434313
+  "/locations-hours/index.html":
+    md5: 674f2539f586dff826506cede1d04980
+    time: 1433434313
+  "/locations-hours/jack-brause-library/index.html":
+    md5: 3de9e8404fe11a33f66d6b4ab5d02676
+    time: 1433434313
+  "/locations-hours/nyu-abu-dhabi-library/index.html":
+    md5: 949da61d0e30fc7d4da41c1872d196e0
+    time: 1433434313
+  "/locations-hours/ifa-conservation-center-library/index.html":
+    md5: d2d776c8bd05f286eb6d934b483f5af4
+    time: 1433434314
+  "/locations-hours/ifa-stephen-chan-library-of-fine-arts/index.html":
+    md5: 7f76485544470f10a485c49a2ed1ee5a
+    time: 1433434314
+  "/locations-hours/institute-for-the-study-of-the-ancient-world-library/index.html":
+    md5: 08dc02943fcf66105b887f8fd675757b
+    time: 1433434314
+  "/locations-hours/nyu-shanghai-library/index.html":
+    md5: 8eb9b5458fcb1ae8be15219ea8a6fe11
+    time: 1433434314
+  "/locations-hours/bern-dibner-library-of-science-and-technology/index.html":
+    md5: f51488b00d99685d97ee1d15610c6af9
+    time: 1433434314
+  "/locations-hours/elmer-holmes-bobst-library/index.html":
+    md5: f16c1afbdf7e893a4f0aaab911c11dd8
+    time: 1433434314
+  "/locations-hours/archive/index.html":
+    md5: 96d41250844fe965cd35ebde8015c307
+    time: 1433434314
+  "/locations-hours/tags/index.html":
+    md5: 99173862f9833f0b8097216f69c890cd
+    time: 1433434314
+  "/services-information/index.html":
+    md5: 35acea46907d3a2013067eb909eedacd
+    time: 1433434315
+  "/people-departments/index.html":
+    md5: f0203c7a3ec22bef97ccfcbc2a26b263
+    time: 1433434315
+  "/about/index.html":
+    md5: 3b3ac8cda855d2e825f237b179f8a412
+    time: 1433434315
+  "/people-departments/digitalstudio/index.html":
+    md5: b88eab10a98058c476168c41fec22305
+    time: 1433434315
+  "/people-departments/digitalstudio/updates-events/index.html":
+    md5: b167bd9fd692857175db24d6bf0cc15c
+    time: 1433434315
+  "/people-departments/digitalstudio/what-we-do/index.html":
+    md5: f00e7cce39b2d1d5dac7a2e596368280
+    time: 1433434315
+  "/people-departments/digitalstudio/who-we-are/index.html":
+    md5: 79f1c41015e2f52366623cc4c8b88193
+    time: 1433434315
+  "/people-departments/digitalstudio/contact-information/index.html":
+    md5: 6b3b488a6b676d3acac752b4709eba12
+    time: 1433434315
+  "/people-departments/digitalstudio/archive/index.html":
+    md5: 14c6ffd84e6a589e9b81ff688419d104
+    time: 1433434315
+  "/people-departments/digitalstudio/tags/index.html":
+    md5: 08120f264803098811155c107fe22bc3
+    time: 1433434315
+  "/about/news-events/index.html":
+    md5: 76a6a05dff9c04eb74eb9c240b2db0e0
+    time: 1433434316
+  "/CNAME":
     md5: f1d4f9fe60cce3bc1c2b51c0b1a52459
     time: 1429212172
-  /sitemap.xml:
-    md5: 54b18d6e14d3626b63f5f69a2185b1c7
-    time: 1429885664
-  /feed.xml:
-    md5: ab81a098fbfa7547d1608a745fad186a
-    time: 1429896366
-  /images/ic_expand_less_48px.svg:
+  "/sitemap.xml":
+    md5: fcd7101bdb23cc20b465aa6710d9c280
+    time: 1433434316
+  "/feed.xml":
+    md5: 71a431ec62f6156cdde9102c117169a3
+    time: 1433434316
+  "/images/ic_expand_less_48px.svg":
     md5: cc38c984020c451526d7d4ca793f34fb
     time: 1428079902
-  /images/ic_expand_more_48px.svg:
+  "/images/ic_expand_more_48px.svg":
     md5: f60546e55e2dc089d49e742039855fc1
     time: 1428079902
-  /images/ic_call_48px.svg:
+  "/images/ic_call_48px.svg":
     md5: 62dd53e702baf1b3aeef13c41bb283a5
     time: 1428079902
-  /images/ic_email_48px.svg:
+  "/images/ic_email_48px.svg":
     md5: d0631a99bac1de6711a6bd615220f36d
     time: 1428079903
-  /images/banner2.gif:
+  "/images/banner2.gif":
     md5: 6d053d08e294511653c4931a8a6b25cd
     time: 1428079903
-  /images/nyulibrarieslogo.png:
+  "/images/nyulibrarieslogo.png":
     md5: c5efaeb7ff48e3f2bcee276238d83baa
     time: 1428079903
-  /css/style.css:
+  "/css/style.css":
     md5: 98462af93e1cb22206c4feae5b1af67e
     time: 1428079903
-  /css/hours.css:
+  "/css/hours.css":
     md5: 6f125befdfe3fe47b9ee15166780119c
     time: 1428079904
-  /js/json_hours_get.js:
+  "/js/json_hours_get.js":
     md5: 99fa11f069a4087cddd640e08a43b334
     time: 1428079904
-  /_includes/header.html~:
+  "/_includes/header.html~":
     md5: 26f2c9b088867f55eef2d29a85bd8261
     time: 1428079904
+  "/assets/Screen Shot 2015-06-01 at 11.39.37 AM.png":
+    md5: 1d432d984835ded4e6bfb7b298b8d19a
+    time: 1433434316
