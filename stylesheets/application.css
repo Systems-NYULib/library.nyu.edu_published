@@ -3644,7 +3644,7 @@ a { -webkit-transition: color 0.3s ease-in-out, background-image 0.3s ease-in-ou
 .icons-nyu-content-type-unknown { width: 30px; height: 39px; }
 
 /* line 1, ../../../../../.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/bundler/gems/nyulibraries-assets-4bc784f765a1/lib/assets/stylesheets/nyulibraries/_header.scss */
-header { background-image: url('/images/nyulibraries/nyu/header.png?1433527804'); background-position: 21px 21px; background-repeat: no-repeat; background-color: #57068C; height: 69px; }
+header { background-image: url('/images/nyulibraries/nyu/header.png?1433534688'); background-position: 21px 21px; background-repeat: no-repeat; background-color: #57068C; height: 69px; }
 /* line 10, ../../../../../.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/bundler/gems/nyulibraries-assets-4bc784f765a1/lib/assets/stylesheets/nyulibraries/_header.scss */
 header a { float: left; height: 69px; width: 209px; }
 /* line 16, ../../../../../.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/bundler/gems/nyulibraries-assets-4bc784f765a1/lib/assets/stylesheets/nyulibraries/_header.scss */
@@ -3700,7 +3700,7 @@ li.nyu-login:before { content: "" !important; }
 /* line 1, ../../../../../.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/bundler/gems/nyulibraries-assets-4bc784f765a1/lib/assets/stylesheets/nyulibraries/_search.scss */
 .search { background-color: #e8e8e8; background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2U4ZThlOCIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2RjZGNkYyIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA=='); background-size: 100%; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #e8e8e8), color-stop(100%, #dcdcdc)); background-image: -moz-linear-gradient(#e8e8e8, #dcdcdc); background-image: -webkit-linear-gradient(#e8e8e8, #dcdcdc); background-image: linear-gradient(#e8e8e8, #dcdcdc); -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; padding: 19px; }
 /* line 10, ../../../../../.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/bundler/gems/nyulibraries-assets-4bc784f765a1/lib/assets/stylesheets/nyulibraries/_search.scss */
-.search input[type="text"] { padding-left: 24px; padding-top: 5px; padding-bottom: 5px; background-image: url('/images/magnifier.png?1433527804'); background-repeat: no-repeat; background-position: 6px 50%; }
+.search input[type="text"] { padding-left: 24px; padding-top: 5px; padding-bottom: 5px; background-image: url('/images/magnifier.png?1433534688'); background-repeat: no-repeat; background-position: 6px 50%; }
 /* line 22, ../../../../../.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/bundler/gems/nyulibraries-assets-4bc784f765a1/lib/assets/stylesheets/nyulibraries/_search.scss */
 .search .search-section { border-top: 1px solid #cfcfcf; }
 /* line 27, ../../../../../.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/bundler/gems/nyulibraries-assets-4bc784f765a1/lib/assets/stylesheets/nyulibraries/_search.scss */
@@ -4967,8 +4967,6 @@ a { color: #0091e5; text-decoration: none; }
 /* line 79, ../sass/_style.sass */
 .subpage-menu a { display: inline-block; margin-right: 15px; }
 
-/*.banner  /*position: fixed  /*width: 100%  /*top: 0px  /*height: 60px  /*z-index: 10  /*background: #57068C */
-/*.bannerImg  /*height: 45px  /*width: 300px  /*padding-top: 10px  /*padding-left: 10px  /* padding-bottom: {img height} */
 /* I got 99 problems, but this last line ain't one */
 /* line 1, ../sass/_staff.sass */
 .checkbox-staff { height: 100px; width: 100%; position: relative; background: white; display: inline-block; margin: 7px 2% 7px; border-radius: 2px; cursor: pointer; }
