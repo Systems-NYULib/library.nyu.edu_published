@@ -1,120 +1,117 @@
 ---
-time: 1433434327
+time: 1433527843
 inventory:
   "/home/index.html":
-    md5: 14b356ccb87006cd70adab5a15e5de2e
-    time: 1433434313
+    md5: acd0ce09f16379caa0e277e2f8b6f44f
+    time: 1433527830
   "/index.html":
-    md5: 14b356ccb87006cd70adab5a15e5de2e
-    time: 1433434313
+    md5: acd0ce09f16379caa0e277e2f8b6f44f
+    time: 1433527830
   "/search/index.html":
-    md5: c45318479232c3a389704b52c2db9c63
-    time: 1433434313
+    md5: 20456b5b7f0e3eede775cada3ddeb3cd
+    time: 1433527830
   "/locations-hours/index.html":
-    md5: 674f2539f586dff826506cede1d04980
-    time: 1433434313
+    md5: b4b36251ee5c3a1c38c589b6a8739f8b
+    time: 1433527830
   "/locations-hours/jack-brause-library/index.html":
-    md5: 3de9e8404fe11a33f66d6b4ab5d02676
-    time: 1433434313
+    md5: 0c301a1e860b62190e1e3af3ecbd6ab6
+    time: 1433527830
   "/locations-hours/nyu-abu-dhabi-library/index.html":
-    md5: 949da61d0e30fc7d4da41c1872d196e0
-    time: 1433434313
+    md5: ce619c40c43fb24f96f82845fd099a16
+    time: 1433527830
   "/locations-hours/ifa-conservation-center-library/index.html":
-    md5: d2d776c8bd05f286eb6d934b483f5af4
-    time: 1433434314
+    md5: 496ec0562aff5e3a31ae3c32107aeffa
+    time: 1433527830
   "/locations-hours/ifa-stephen-chan-library-of-fine-arts/index.html":
-    md5: 7f76485544470f10a485c49a2ed1ee5a
-    time: 1433434314
+    md5: 0d2f78d7247ad198f7341d8cc22360e4
+    time: 1433527830
   "/locations-hours/institute-for-the-study-of-the-ancient-world-library/index.html":
-    md5: 08dc02943fcf66105b887f8fd675757b
-    time: 1433434314
+    md5: e45aab1296c704fa153bff6edef0fbeb
+    time: 1433527830
   "/locations-hours/nyu-shanghai-library/index.html":
-    md5: 8eb9b5458fcb1ae8be15219ea8a6fe11
-    time: 1433434314
+    md5: 43d293648a2a93e068c32a709fb3cb46
+    time: 1433527830
   "/locations-hours/bern-dibner-library-of-science-and-technology/index.html":
-    md5: f51488b00d99685d97ee1d15610c6af9
-    time: 1433434314
+    md5: 43184aeeb7b7fcbd4fd36be2f62593d7
+    time: 1433527830
   "/locations-hours/elmer-holmes-bobst-library/index.html":
-    md5: f16c1afbdf7e893a4f0aaab911c11dd8
-    time: 1433434314
+    md5: 7863d376acd5263dd5c83cb4ae2ee185
+    time: 1433527830
   "/locations-hours/archive/index.html":
-    md5: 96d41250844fe965cd35ebde8015c307
-    time: 1433434314
+    md5: d53e15e3872bb2f8d69133c975806945
+    time: 1433527830
   "/locations-hours/tags/index.html":
-    md5: 99173862f9833f0b8097216f69c890cd
-    time: 1433434314
+    md5: 2776cc90782d00838108b537f980d630
+    time: 1433527830
   "/services-information/index.html":
-    md5: 35acea46907d3a2013067eb909eedacd
-    time: 1433434315
+    md5: 685da6a19e18e5ed5a5d4195f9795cbc
+    time: 1433527830
   "/people-departments/index.html":
-    md5: f0203c7a3ec22bef97ccfcbc2a26b263
-    time: 1433434315
+    md5: a3e2f431c010b0eaba1053f748b5e241
+    time: 1433527830
   "/about/index.html":
-    md5: 3b3ac8cda855d2e825f237b179f8a412
-    time: 1433434315
+    md5: d73f8722898d1d12deee870c7f041b1f
+    time: 1433527830
   "/people-departments/digitalstudio/index.html":
-    md5: b88eab10a98058c476168c41fec22305
-    time: 1433434315
+    md5: 244f7aa9e642685991d09f750f39cba2
+    time: 1433527830
   "/people-departments/digitalstudio/updates-events/index.html":
-    md5: b167bd9fd692857175db24d6bf0cc15c
-    time: 1433434315
+    md5: a38e02a0ac40275aa259c186dd72cf3a
+    time: 1433527830
   "/people-departments/digitalstudio/what-we-do/index.html":
-    md5: f00e7cce39b2d1d5dac7a2e596368280
-    time: 1433434315
+    md5: 0b85d743b7e2923d89a2c7986f0b778f
+    time: 1433527830
   "/people-departments/digitalstudio/who-we-are/index.html":
-    md5: 79f1c41015e2f52366623cc4c8b88193
-    time: 1433434315
+    md5: 79e645ff13b2f5717554e93ff315765e
+    time: 1433527830
   "/people-departments/digitalstudio/contact-information/index.html":
-    md5: 6b3b488a6b676d3acac752b4709eba12
-    time: 1433434315
+    md5: 083795355f6aacaa440eaf57662f084f
+    time: 1433527830
   "/people-departments/digitalstudio/archive/index.html":
-    md5: 14c6ffd84e6a589e9b81ff688419d104
-    time: 1433434315
-  "/people-departments/digitalstudio/tags/index.html":
-    md5: 08120f264803098811155c107fe22bc3
-    time: 1433434315
+    md5: bc4feaa7bfafed9b829451515ac470a4
+    time: 1433527830
+  "/people-departments/digitalstudio/department/index.html":
+    md5: 5f28b84395afd7de8eaec51118533624
+    time: 1433527830
+  "/people-departments/digitalstudio/department/digital-studio/index.html":
+    md5: eb3001d77c77da821a27cbd7398adf00
+    time: 1433527830
+  "/people-departments/digitalstudio/tag-set-name/index.html":
+    md5: 98271e5054481818fdf7c52879fb3f52
+    time: 1433527830
   "/about/news-events/index.html":
-    md5: 76a6a05dff9c04eb74eb9c240b2db0e0
-    time: 1433434316
+    md5: 997989395c8a07e1157668571f1d0563
+    time: 1433527831
   "/CNAME":
     md5: f1d4f9fe60cce3bc1c2b51c0b1a52459
     time: 1429212172
   "/sitemap.xml":
-    md5: fcd7101bdb23cc20b465aa6710d9c280
-    time: 1433434316
+    md5: c274967e635ff053f0ad26ae3bf8a53b
+    time: 1433527831
   "/feed.xml":
-    md5: 71a431ec62f6156cdde9102c117169a3
+    md5: 5c1774e1147a710103061beb8eeaea7d
+    time: 1433527831
+  "/assets/Screen Shot 2015-06-01 at 11.39.37 AM.png":
+    md5: 1d432d984835ded4e6bfb7b298b8d19a
     time: 1433434316
-  "/images/ic_expand_less_48px.svg":
-    md5: cc38c984020c451526d7d4ca793f34fb
-    time: 1428079902
-  "/images/ic_expand_more_48px.svg":
-    md5: f60546e55e2dc089d49e742039855fc1
-    time: 1428079902
   "/images/ic_call_48px.svg":
     md5: 62dd53e702baf1b3aeef13c41bb283a5
     time: 1428079902
   "/images/ic_email_48px.svg":
     md5: d0631a99bac1de6711a6bd615220f36d
     time: 1428079903
-  "/images/banner2.gif":
-    md5: 6d053d08e294511653c4931a8a6b25cd
-    time: 1428079903
-  "/images/nyulibrarieslogo.png":
-    md5: c5efaeb7ff48e3f2bcee276238d83baa
-    time: 1428079903
-  "/css/style.css":
-    md5: 98462af93e1cb22206c4feae5b1af67e
-    time: 1428079903
-  "/css/hours.css":
-    md5: 6f125befdfe3fe47b9ee15166780119c
-    time: 1428079904
-  "/js/json_hours_get.js":
-    md5: 99fa11f069a4087cddd640e08a43b334
-    time: 1428079904
-  "/_includes/header.html~":
-    md5: 26f2c9b088867f55eef2d29a85bd8261
-    time: 1428079904
-  "/assets/Screen Shot 2015-06-01 at 11.39.37 AM.png":
-    md5: 1d432d984835ded4e6bfb7b298b8d19a
-    time: 1433434316
+  "/images/ic_expand_less_48px.svg":
+    md5: cc38c984020c451526d7d4ca793f34fb
+    time: 1428079902
+  "/images/ic_expand_more_48px.svg":
+    md5: f60546e55e2dc089d49e742039855fc1
+    time: 1428079902
+  "/images/ic_place_48px.svg":
+    md5: 5ef9da316fd3a16081f92ee5a824e4da
+    time: 1433527831
+  "/javascripts/application.js":
+    md5: 215224d982aa6062d3dc8a1a0185091d
+    time: 1433527831
+  "/stylesheets/application.css":
+    md5: e58ce26f60dddc1d644c280947f23cd9
+    time: 1433527831
