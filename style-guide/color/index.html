@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta name="generator" content="Siteleaf, http://siteleaf.com" />
-  <meta class="swiftype" name="url" data-type="enum" content="http://dev.library.nyu.edu/about/" /><meta class="swiftype" name="collection" data-type="enum" content="pages" /><meta class="swiftype" name="card_html" data-type="text" content="&lt;div class=&quot;item&quot;&gt;    &lt;h2 class=&quot;item__title&quot;&gt;    &lt;a href=&quot;/about/&quot;  title=&quot;View more info on About&quot;&gt;About&lt;/a&gt;  &lt;/h2&gt;    &lt;/div&gt;" /><meta class="swiftype" name="title" data-type="string" content="About" />
-  <title>About | New York University Libraries</title>
-  <link rel="canonical" href="http://dev.library.nyu.edu/about/" />
+  <meta class="swiftype" name="url" data-type="enum" content="http://dev.library.nyu.edu/style-guide/color/" /><meta class="swiftype" name="collection" data-type="enum" content="pages" /><meta class="swiftype" name="card_html" data-type="text" content="&lt;div class=&quot;item&quot;&gt;    &lt;h2 class=&quot;item__title&quot;&gt;    &lt;a href=&quot;/style-guide/color/&quot;  title=&quot;View more info on Color&quot;&gt;Color&lt;/a&gt;  &lt;/h2&gt;      &lt;p&gt;Style Guide&lt;/p&gt;    &lt;/div&gt;" /><meta class="swiftype" name="title" data-type="string" content="Color" />
+  <title>Color | New York University Libraries</title>
+  <link rel="canonical" href="http://dev.library.nyu.edu/style-guide/color/" />
 
   
 
@@ -14,6 +14,10 @@
 
   <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7436432/789146/css/fonts.css" />
   <link rel="stylesheet" type="text/css" href="/assets/css/global.css" />
+  
+    
+    <link rel="stylesheet" href="/assets/css/style-guide.css" type="text/css">
+    
   
 
   <!--[if lt IE 9]>
@@ -173,24 +177,19 @@
 
     <main id="main" tabindex="-1">
       
-
-
-  
-
-
-<div class="wrap content has-sidebar">
-  
-    <header class="banner banner--page banner--simple">
-  <div >
+  <header class="banner banner--page">
+  <div  class="wrap">
     <div class="banner__inner">
       <h1 class="heading heading--page">
         
 
-        About
+        Color
 
         
       </h1>
 
+      
+        <h2 class="heading heading--subtitle">Style Guide</h2>
       
 
       
@@ -209,48 +208,174 @@
     </div>
   </div>
 </header>
+
+
+
+  
+
+
+<div class="wrap content has-sidebar">
   
 
   <div class="block block--body" data-swiftype-index="true">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sapien nulla, facilisis nec ex id, pharetra vestibulum erat. Aliquam vehicula ipsum sed velit vulputate lacinia. Proin sollicitudin dapibus nunc non tempus. Vivamus augue dui, aliquam eget lobortis non, hendrerit eu sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem turpis, varius porta dignissim non, aliquam et lectus. In gravida ullamcorper diam in rutrum.</p>
+    <link rel="stylesheet" type="text/css" href="/assets/css/style-guide.css" />
 
-<p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
+<div class="style-guide-content--color">
+  
 
-<h2 id="header-level-2">Header Level 2</h2>
+  
+  <div class="style-guide__colors">
+  <h1>Text</h1>
 
-<ol>
-  <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-  <li>Aliquam tincidunt mauris eu risus.</li>
-</ol>
+  <p class="text_black">
+    <input class="color-val" type="text" />
+    Black - <code>$text_black</code><br />
+    <strong>Used for:</strong> Base style for all text
+  </p>
 
-<blockquote>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-</blockquote>
+  <p class="text_dark_gray">
+    <input class="color-val" type="text" />
+    Dark gray - <code>$text_dark_gray</code><br />
+    <strong>Used for:</strong> Tabs and "See more" links
+  </p>
 
-<h3 id="header-level-3">Header Level 3</h3>
+  <p class="text_light_gray">
+    <input class="color-val" type="text" />
+    Light gray - <code>$text_light_gray</code><br />
+    <strong>Used for:</strong> Meta text
+  </p>
 
-<ul>
-  <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-  <li>Aliquam tincidunt mauris eu risus.</li>
-</ul>
+  <p class="text_footer_white">
+    <input class="color-val" type="text" />
+    Footer White - <code>$text_footer_white</code><br />
+    <strong>Used for:</strong> Base footer text
+  </p>
 
-<pre><code>#sample-code a {
-	display: block;
-	width: 300px;
-	height: 80px;
-}
-</code></pre>
+  <p class="text_footer_dark_gray">
+    <input class="color-val" type="text" />
+    Footer Gray - <code>$text_footer_dark_gray</code><br />
+    <strong>Used for:</strong> Deemphasized footer text
+  </p>
 
-<h3 id="header-level-4">Header Level 4</h3>
+  <p class="text_blue">
+    <input class="color-val" type="text" />
+    Blue - <code>$text_blue</code><br />
+    <strong>Used for:</strong> Links
+  </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sapien nulla, facilisis nec ex id, pharetra vestibulum erat. Aliquam vehicula ipsum sed velit vulputate lacinia. Proin sollicitudin dapibus nunc non tempus. Vivamus augue dui, aliquam eget lobortis non, hendrerit eu sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem turpis, varius porta dignissim non, aliquam et lectus. In gravida ullamcorper diam in rutrum.</p>
+  <p class="text_light_blue">
+    <input class="color-val" type="text" />
+    Light blue - <code>$text_light_blue</code><br />
+    <strong>Used for:</strong> Hovered links
+  </p>
 
-<blockquote>
-  <p>Vivamus augue dui, aliquam eget lobortis non, hendrerit eu sapien. Lorem ipsum dolor sit amet</p>
-</blockquote>
+  <p class="text_green">
+    <input class="color-val" type="text" />
+    Green - <code>$text_green</code><br />
+    <strong>Used for:</strong> Icons
+  </p>
 
-<p>Morbi tellus libero, porttitor quis nulla et, efficitur pellentesque nisl. Morbi commodo sit amet ligula at condimentum. Duis bibendum euismod augue nec luctus. Mauris vel lacus nec ex elementum laoreet. Nulla pharetra dapibus odio, ac semper enim interdum non. Curabitur a purus a urna luctus condimentum ullamcorper id massa. Morbi vitae sapien ullamcorper ante ultrices mollis. Vivamus volutpat est lorem, in consequat neque ultrices in. Maecenas condimentum vulputate enim sed aliquam. Duis aliquam sapien massa, eu ultricies ligula cursus ut. Morbi ac magna at libero feugiat suscipit sit amet vitae urna.</p>
+  <p class="text_lavendar">
+    <input class="color-val" type="text" />
+    Lavendar - <code>$text_lavendar</code><br />
+    <strong>Used for:</strong> Deemphasized header text
+  </p>
 
+  <hr /><h1>Borders</h1>
+
+  <p class="border_dotted_gray">
+    <input class="color-val" type="text" />
+    Dotted border gray - <code>$border_dotted_gray</code><br />
+    <strong>Used for:</strong> Dotted borders
+  </p>
+
+  <p class="border_solid_gray">
+    <input class="color-val" type="text" />
+    Solid border gray - <code>$border_solid_gray</code><br />
+    <strong>Used for:</strong> Solid borders
+  </p>
+
+  <p class="border_footer">
+    <input class="color-val" type="text" />
+    Footer border - <code>$border_footer</code><br />
+    <strong>Used for:</strong> Footer borders
+  </p>
+
+  <hr /><h1>Backgrounds</h1>
+
+  <p class="background_black">
+    <input class="color-val" type="text" />
+    Black background - <code>$background_black</code><br />
+    <strong>Used for:</strong> Footer background
+  </p>
+
+  <p class="background_light_gray">
+    <input class="color-val" type="text" />
+    Light gray background - <code>$background_light_gray</code><br />
+    <strong>Used for:</strong> Banner and zebra striped table background
+  </p>
+
+  <p class="background_field_gray">
+    <input class="color-val" type="text" />
+    Light gray field background - <code>$background_field_gray</code><br />
+    <strong>Used for:</strong> Form field background
+  </p>
+
+  <hr /><h1>Misc.</h1>
+
+  <p class="purple">
+    <input class="color-val" type="text" />
+    Purple - <code>$purple</code><br />
+    <strong>Used for:</strong> Header and button background and generic message icons
+  </p>
+
+  <p class="purple_dark">
+    <input class="color-val" type="text" />
+    Dark Purple - <code>$purple_dark</code><br />
+    <strong>Used for:</strong> Pressed button background
+  </p>
+
+  <p class="purple_light">
+    <input class="color-val" type="text" />
+    Light Purple - <code>$purple_light</code><br />
+    <strong>Used for:</strong> Hovered button background
+  </p>
+
+  <p class="red">
+    <input class="color-val" type="text" />
+    Red - <code>$red</code><br />
+    <strong>Used for:</strong> Alert message icons
+  </p>
+</div>
+
+<script type="text/javascript">
+  var hexDigits = new Array
+          ("0","1","2","3","4","5","6","7","8","9","a","b","c","d","e","f");
+
+  //Function to convert hex format to a rgb color
+  function rgb2hex(rgb) {
+   rgb = rgb.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/);
+   return "#" + hex(rgb[1]) + hex(rgb[2]) + hex(rgb[3]);
+  }
+
+  function hex(x) {
+    return isNaN(x) ? "00" : hexDigits[(x - x % 16) / 16] + hexDigits[x % 16];
+   }
+
+  var fields = document.querySelectorAll('.color-val');
+  for (var i = fields.length - 1; i >= 0; i--) {
+    var field = fields[i];
+    var style = window.getComputedStyle(field);
+    var rgb = style.backgroundColor;
+    field.value = rgb2hex(rgb);
+  }
+</script>
+  
+
+  
+
+  <a href="/style-guide" class="less">Back to Style Guide</a>
+</div>
   </div>
 
   
@@ -269,9 +394,9 @@
   
     
     
-    <li class="menu__li menu__li--example">
-      <a href="http://example.org" class="menu__link menu__link--example" target="_blank">
-        Example
+    <li class="menu__li menu__li--jump-to-code-example">
+      <a href="#code" class="menu__link menu__link--jump-to-code-example">
+        Jump to Code Example
       </a>
 
       
@@ -279,9 +404,9 @@
   
     
     
-    <li class="menu__li menu__li--careers">
-      <a href="#todo" class="menu__link menu__link--careers">
-        Careers
+    <li class="menu__li menu__li--back-to-style-guide">
+      <a href="/style-guide" class="menu__link menu__link--back-to-style-guide">
+        Back to Style Guide
       </a>
 
       

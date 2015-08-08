@@ -1,94 +1,429 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>http://nyulibraries.siteleaf.net/</loc>
-    <lastmod>2015-06-05T17:15:51+00:00</lastmod>
-    <priority>1.0</priority>
-  </url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-
-  <url>
-    <loc>http://nyulibraries.siteleaf.net/search</loc>
-    <lastmod>2015-05-29T21:07:31+00:00</lastmod>
-    <priority>1.0</priority>
-  </url>
   
-
   <url>
-    <loc>http://nyulibraries.siteleaf.net/locations-hours</loc>
-    <lastmod>2015-05-29T21:07:46+00:00</lastmod>
+    <loc>http://dev.library.nyu.edu/about/</loc>
+    
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://nyulibraries.siteleaf.net/locations-hours/jack-brause-library</loc>
-    <lastmod>2015-04-02T15:04:55+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://nyulibraries.siteleaf.net/locations-hours/nyu-abu-dhabi-library</loc>
-    <lastmod>2015-03-31T14:38:41+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://nyulibraries.siteleaf.net/locations-hours/ifa-conservation-center-library</loc>
-    <lastmod>2015-03-30T17:45:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://nyulibraries.siteleaf.net/locations-hours/ifa-stephen-chan-library-of-fine-arts</loc>
-    <lastmod>2015-03-30T17:55:58+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://nyulibraries.siteleaf.net/locations-hours/institute-for-the-study-of-the-ancient-world-library</loc>
-    <lastmod>2015-03-27T17:54:36+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://nyulibraries.siteleaf.net/locations-hours/nyu-shanghai-library</loc>
-    <lastmod>2015-03-27T17:54:27+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://nyulibraries.siteleaf.net/locations-hours/bern-dibner-library-of-science-and-technology</loc>
-    <lastmod>2015-03-27T17:54:17+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://nyulibraries.siteleaf.net/locations-hours/elmer-holmes-bobst-library</loc>
-    <lastmod>2015-03-27T17:52:49+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-
-  <url>
-    <loc>http://nyulibraries.siteleaf.net/services-information</loc>
-    <lastmod>2015-05-29T21:07:36+00:00</lastmod>
+    <loc>http://dev.library.nyu.edu/departments/</loc>
+    
     <priority>1.0</priority>
   </url>
   
-
   <url>
-    <loc>http://nyulibraries.siteleaf.net/people-departments</loc>
-    <lastmod>2015-05-29T21:05:05+00:00</lastmod>
+    <loc>http://dev.library.nyu.edu/</loc>
+    
     <priority>1.0</priority>
   </url>
   
-
   <url>
-    <loc>http://nyulibraries.siteleaf.net/about</loc>
-    <lastmod>2015-05-29T21:07:15+00:00</lastmod>
+    <loc>http://dev.library.nyu.edu/locations/</loc>
+    
     <priority>1.0</priority>
   </url>
   
-
+  <url>
+    <loc>http://dev.library.nyu.edu/people/</loc>
+    
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/services/</loc>
+    
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/spaces/</loc>
+    
+    <priority>1.0</priority>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/access-delivery-resource-sharing-services/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/business-government-information-services/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/data-services/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/development/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/digital-library-technology-services/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/digital-scholarship-services/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/digital-studio/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/fales-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/institute-of-fine-arts-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/instructional-undergraduate-global-services/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/library-information-technology-services/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/social-sciences-and-humanities-reference/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/tamiment-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/departments/user-experience/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/20-cooper-square/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/acton-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/bern-dibner-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/brooklyn-historical-society-othmer-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/cantor-film-center/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/conservation-center-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/cooper-union-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/courant-institute-of-mathematical-sciences-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/elmer-holmes-bobst-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/ettinghausen-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/fales-library-and-special-collections/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/frederick-l-ehrman-medical-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/institute-for-the-study-of-the-ancient-world/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/john-and-bertha-e-waldmann-memorial-dental-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/law-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/nelson-institute-of-environmental-medicine/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/new-school-archives-special-collections/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/new-school-university-center-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/new-york-historical-society/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/new-york-school-of-interior-design-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/nyu-abu-dhabi-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/nyu-shanghai-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/scherman-music-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/sps-jack-brause-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/tamiment-wagner-archives/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/the-new-school-libraries-archives-raymond-fogelman-social-sciences-and-humanities-library/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/the-stephen-chan-library-of-fine-arts/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/locations/university-archives/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/spaces/bobst-404/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/spaces/bobst-732/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/spaces/bobst-ll1-22/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/spaces/bobst-ll2-16/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/spaces/research-commons/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/camelia-anghel/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/charling-fagan/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/iris-bierlein/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/kelly-johnson/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/kristina-rose/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/michael-hughes/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/nadaleen-templeman-kluit/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/rachel-pisciotta/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/rachel-searcey/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/scott-collard/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/people/tal-rozen/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/services/post-production-and-editing/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/services/scanning/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.library.nyu.edu/services/transferring-media/</loc>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
 </urlset>

@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta name="generator" content="Siteleaf, http://siteleaf.com" />
-  <meta class="swiftype" name="url" data-type="enum" content="http://dev.library.nyu.edu/about/" /><meta class="swiftype" name="collection" data-type="enum" content="pages" /><meta class="swiftype" name="card_html" data-type="text" content="&lt;div class=&quot;item&quot;&gt;    &lt;h2 class=&quot;item__title&quot;&gt;    &lt;a href=&quot;/about/&quot;  title=&quot;View more info on About&quot;&gt;About&lt;/a&gt;  &lt;/h2&gt;    &lt;/div&gt;" /><meta class="swiftype" name="title" data-type="string" content="About" />
-  <title>About | New York University Libraries</title>
-  <link rel="canonical" href="http://dev.library.nyu.edu/about/" />
+  <meta class="swiftype" name="url" data-type="enum" content="http://dev.library.nyu.edu/style-guide/grid/" /><meta class="swiftype" name="collection" data-type="enum" content="pages" /><meta class="swiftype" name="card_html" data-type="text" content="&lt;div class=&quot;item&quot;&gt;    &lt;h2 class=&quot;item__title&quot;&gt;    &lt;a href=&quot;/style-guide/grid/&quot;  title=&quot;View more info on Grid Layout&quot;&gt;Grid Layout&lt;/a&gt;  &lt;/h2&gt;      &lt;p&gt;Style Guide&lt;/p&gt;    &lt;/div&gt;" /><meta class="swiftype" name="title" data-type="string" content="Grid Layout" />
+  <title>Grid Layout | New York University Libraries</title>
+  <link rel="canonical" href="http://dev.library.nyu.edu/style-guide/grid/" />
 
   
 
@@ -14,6 +14,10 @@
 
   <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7436432/789146/css/fonts.css" />
   <link rel="stylesheet" type="text/css" href="/assets/css/global.css" />
+  
+    
+    <link rel="stylesheet" href="/assets/css/style-guide.css" type="text/css">
+    
   
 
   <!--[if lt IE 9]>
@@ -173,24 +177,19 @@
 
     <main id="main" tabindex="-1">
       
-
-
-  
-
-
-<div class="wrap content has-sidebar">
-  
-    <header class="banner banner--page banner--simple">
-  <div >
+  <header class="banner banner--page">
+  <div  class="wrap">
     <div class="banner__inner">
       <h1 class="heading heading--page">
         
 
-        About
+        Grid Layout
 
         
       </h1>
 
+      
+        <h2 class="heading heading--subtitle">Style Guide</h2>
       
 
       
@@ -209,48 +208,169 @@
     </div>
   </div>
 </header>
+
+
+
+  
+
+
+<div class="wrap content has-sidebar">
   
 
   <div class="block block--body" data-swiftype-index="true">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sapien nulla, facilisis nec ex id, pharetra vestibulum erat. Aliquam vehicula ipsum sed velit vulputate lacinia. Proin sollicitudin dapibus nunc non tempus. Vivamus augue dui, aliquam eget lobortis non, hendrerit eu sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem turpis, varius porta dignissim non, aliquam et lectus. In gravida ullamcorper diam in rutrum.</p>
+    <link rel="stylesheet" type="text/css" href="/assets/css/style-guide.css" />
 
-<p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
+<div class="style-guide-content--grid-layout">
+  
+    <h1>Preview</h1>
+  
 
-<h2 id="header-level-2">Header Level 2</h2>
+  
+  <div class="block">
+  <h2 class="heading--block">Block heading</h2>
+  This block spans the entire width
+</div>
 
-<ol>
-  <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-  <li>Aliquam tincidunt mauris eu risus.</li>
-</ol>
+<div class="flex-blocks">
+  <div class="block">
+    <h2 class="heading--block">Flex block</h2>
+    This row detects how many columns to span through JS.
+  </div>
 
-<blockquote>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-</blockquote>
+  <div class="block">
+    <h2 class="heading--block">Flex block</h2>
+    This row detects how many columns to span through JS.
+  </div>
+</div>
 
-<h3 id="header-level-3">Header Level 3</h3>
+<div class="block--container">
+  <div class="block block--50">
+    <h2 class="heading--block">block--50</h2>
+    This block spans 50% of its parent.
+  </div>
 
-<ul>
-  <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-  <li>Aliquam tincidunt mauris eu risus.</li>
-</ul>
+  <div class="block block--50">
+    <h2 class="heading--block">block--50</h2>
+    This block spans 50% of its parent.
+  </div>
+</div>
 
-<pre><code>#sample-code a {
-	display: block;
-	width: 300px;
-	height: 80px;
-}
-</code></pre>
+<div class="block--container">
+  <div class="block block--33">
+    <h2 class="heading--block">block--33</h2>
+    This block spans 33% of its parent.
+  </div>
 
-<h3 id="header-level-4">Header Level 4</h3>
+  <div class="block block--33">
+    <h2 class="heading--block">block--33</h2>
+    This block spans 33% of its parent.
+  </div>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sapien nulla, facilisis nec ex id, pharetra vestibulum erat. Aliquam vehicula ipsum sed velit vulputate lacinia. Proin sollicitudin dapibus nunc non tempus. Vivamus augue dui, aliquam eget lobortis non, hendrerit eu sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem turpis, varius porta dignissim non, aliquam et lectus. In gravida ullamcorper diam in rutrum.</p>
+  <div class="block block--33">
+    <h2 class="heading--block">block--33</h2>
+    This block spans 33% of its parent.
+  </div>
+</div>
 
-<blockquote>
-  <p>Vivamus augue dui, aliquam eget lobortis non, hendrerit eu sapien. Lorem ipsum dolor sit amet</p>
-</blockquote>
+<div class="block--container">
+  <div class="block block--25">
+    <h2 class="heading--block">block--25</h2>
+    This block spans 25% of its parent.
+  </div>
 
-<p>Morbi tellus libero, porttitor quis nulla et, efficitur pellentesque nisl. Morbi commodo sit amet ligula at condimentum. Duis bibendum euismod augue nec luctus. Mauris vel lacus nec ex elementum laoreet. Nulla pharetra dapibus odio, ac semper enim interdum non. Curabitur a purus a urna luctus condimentum ullamcorper id massa. Morbi vitae sapien ullamcorper ante ultrices mollis. Vivamus volutpat est lorem, in consequat neque ultrices in. Maecenas condimentum vulputate enim sed aliquam. Duis aliquam sapien massa, eu ultricies ligula cursus ut. Morbi ac magna at libero feugiat suscipit sit amet vitae urna.</p>
+  <div class="block block--25">
+    <h2 class="heading--block">block--25</h2>
+    This block spans 25% of its parent.
+  </div>
 
+  <div class="block block--25">
+    <h2 class="heading--block">block--25</h2>
+    This block spans 25% of its parent.
+  </div>
+
+  <div class="block block--25">
+    <h2 class="heading--block">block--25</h2>
+    This block spans 25% of its parent.
+  </div>
+</div>
+  
+
+  
+    <hr />
+
+    <h1 id="code">Code Example</h1>
+
+    <textarea rows="15" style="font-family:monospace">&lt;div class=&quot;block&quot;&gt;
+  &lt;h2 class=&quot;heading--block&quot;&gt;Block heading&lt;/h2&gt;
+  This block spans the entire width
+&lt;/div&gt;
+
+&lt;div class=&quot;flex-blocks&quot;&gt;
+  &lt;div class=&quot;block&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;Flex block&lt;/h2&gt;
+    This row detects how many columns to span through JS.
+  &lt;/div&gt;
+
+  &lt;div class=&quot;block&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;Flex block&lt;/h2&gt;
+    This row detects how many columns to span through JS.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;block--container&quot;&gt;
+  &lt;div class=&quot;block block--50&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;block--50&lt;/h2&gt;
+    This block spans 50% of its parent.
+  &lt;/div&gt;
+
+  &lt;div class=&quot;block block--50&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;block--50&lt;/h2&gt;
+    This block spans 50% of its parent.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;block--container&quot;&gt;
+  &lt;div class=&quot;block block--33&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;block--33&lt;/h2&gt;
+    This block spans 33% of its parent.
+  &lt;/div&gt;
+
+  &lt;div class=&quot;block block--33&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;block--33&lt;/h2&gt;
+    This block spans 33% of its parent.
+  &lt;/div&gt;
+
+  &lt;div class=&quot;block block--33&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;block--33&lt;/h2&gt;
+    This block spans 33% of its parent.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;block--container&quot;&gt;
+  &lt;div class=&quot;block block--25&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;block--25&lt;/h2&gt;
+    This block spans 25% of its parent.
+  &lt;/div&gt;
+
+  &lt;div class=&quot;block block--25&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;block--25&lt;/h2&gt;
+    This block spans 25% of its parent.
+  &lt;/div&gt;
+
+  &lt;div class=&quot;block block--25&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;block--25&lt;/h2&gt;
+    This block spans 25% of its parent.
+  &lt;/div&gt;
+
+  &lt;div class=&quot;block block--25&quot;&gt;
+    &lt;h2 class=&quot;heading--block&quot;&gt;block--25&lt;/h2&gt;
+    This block spans 25% of its parent.
+  &lt;/div&gt;
+&lt;/div&gt;</textarea>
+  
+
+  <a href="/style-guide" class="less">Back to Style Guide</a>
+</div>
   </div>
 
   
@@ -269,9 +389,9 @@
   
     
     
-    <li class="menu__li menu__li--example">
-      <a href="http://example.org" class="menu__link menu__link--example" target="_blank">
-        Example
+    <li class="menu__li menu__li--jump-to-code-example">
+      <a href="#code" class="menu__link menu__link--jump-to-code-example">
+        Jump to Code Example
       </a>
 
       
@@ -279,9 +399,9 @@
   
     
     
-    <li class="menu__li menu__li--careers">
-      <a href="#todo" class="menu__link menu__link--careers">
-        Careers
+    <li class="menu__li menu__li--back-to-style-guide">
+      <a href="/style-guide" class="menu__link menu__link--back-to-style-guide">
+        Back to Style Guide
       </a>
 
       
