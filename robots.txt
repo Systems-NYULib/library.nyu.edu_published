@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://dev.library.nyu.edu/sitemap.xml
+Sitemap: dev.library.nyu.edu/sitemap.xml
