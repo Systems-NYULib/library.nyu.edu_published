@@ -1,339 +1,339 @@
 ---
-time: 1441079222
+time: 1441079249
 inventory:
   sitemap.xml:
-    sha: 3d6bed0d30ce54da3fc633c9c82c758600cbd0b2
-    time: 1441079198
+    sha: ee1639192c22c6019231e2bc6a90ce2cef43dbb1
+    time: 1441079248
   CNAME:
     sha: c04d343faed38ce86a2dc58d586630727461200f
-    time: 1441079198
+    time: 1441079248
   index.html:
     sha: ccb908bb407ccdff05f27a2b8b1effe24de827c7
-    time: 1441079198
+    time: 1441079248
   locations/tamiment-wagner-archives/index.html:
     sha: d94fb712565085b3e18ec3f78a4118ad510a7ac2
-    time: 1441079198
+    time: 1441079248
   locations/nyu-shanghai-library/index.html:
     sha: e6e06c4b1fabcc217b717603129ab0eae79693c9
-    time: 1441079198
+    time: 1441079248
   locations/cooper-union-library/index.html:
     sha: 72fd786fc200273e634fec333b2ad7dfa13187f6
-    time: 1441079198
+    time: 1441079248
   locations/index.html:
     sha: e44ab3611e31f0a0d70d4a1a0a38cd7651c08c87
-    time: 1441079198
+    time: 1441079248
   locations/fales-library-and-special-collections/index.html:
     sha: 14d43d6b6650b40446132ed976106b97f77632c9
-    time: 1441079198
+    time: 1441079248
   locations/new-school-archives-special-collections/index.html:
     sha: 8568225235c6d94bfa505b87eb34ca7ea9ac4d5c
-    time: 1441079198
+    time: 1441079248
   locations/bern-dibner-library/index.html:
     sha: 04d15aebb3c990bb062358bb328af0165a897f59
-    time: 1441079198
+    time: 1441079248
   locations/nyu-abu-dhabi-library/index.html:
     sha: 8d14c3f28f891a775b645fc68eaa920094c3357f
-    time: 1441079198
+    time: 1441079248
   locations/law-library/index.html:
     sha: 6e915731c32c73c660055e74569ea52fb5f2e367
-    time: 1441079198
+    time: 1441079248
   locations/20-cooper-square/index.html:
     sha: 9b2f71436716372115ccdd74a0ccf8beac9683a5
-    time: 1441079198
+    time: 1441079248
   locations/acton-library/index.html:
     sha: 61fdca67166c39adc85fe1851c1b50ad5d741693
-    time: 1441079198
+    time: 1441079248
   locations/ettinghausen-library/index.html:
     sha: 293d425a89a8dee1e8983f5d0be6af295f34df6b
-    time: 1441079198
+    time: 1441079248
   locations/scherman-music-library/index.html:
     sha: fe433feb0192266b065bb8eeb816baa38ad7df2b
-    time: 1441079198
+    time: 1441079248
   locations/new-school-university-center-library/index.html:
     sha: 94b34fa63a207d37de8635789c0f80673f15780d
-    time: 1441079198
+    time: 1441079248
   locations/new-york-historical-society/index.html:
     sha: 851f9d53182c6e618846219f78de494fc97995d3
-    time: 1441079198
+    time: 1441079248
   locations/elmer-holmes-bobst-library/index.html:
     sha: 42b5335e13cc03a06d375db434cd94a94ad55697
-    time: 1441079198
+    time: 1441079248
   locations/brooklyn-historical-society-othmer-library/index.html:
     sha: 6b512e50fac5ece6b42bf02ac79c8da933b35dc9
-    time: 1441079198
+    time: 1441079248
   locations/courant-institute-of-mathematical-sciences-library/index.html:
     sha: d9fa12a98848815c857503e2c736eec96a77bffc
-    time: 1441079198
+    time: 1441079248
   locations/frederick-l-ehrman-medical-library/index.html:
     sha: 0ec8097ff9320b352ce3c84b9120cada85caf6da
-    time: 1441079198
+    time: 1441079248
   locations/institute-for-the-study-of-the-ancient-world/index.html:
     sha: 4bea5184a4810d968da8c7ddd9596d5add6d4d86
-    time: 1441079198
+    time: 1441079248
   locations/the-stephen-chan-library-of-fine-arts/index.html:
     sha: a2ede120c8c6e4e41d4a857d3964333df8b5aec0
-    time: 1441079198
+    time: 1441079248
   locations/cantor-film-center/index.html:
     sha: f8df2e2ffe95321a7748cfa86b2f05d550b186a2
-    time: 1441079198
+    time: 1441079248
   locations/new-york-school-of-interior-design-library/index.html:
     sha: 5dc79a9f157e45c7c6f0e879f53d78abed528c01
-    time: 1441079198
+    time: 1441079248
   locations/john-and-bertha-e-waldmann-memorial-dental-library/index.html:
     sha: e327276f6fa7986e872ca5d535c74bddacce235d
-    time: 1441079198
+    time: 1441079248
   locations/university-archives/index.html:
     sha: 6081c739fcfc0274fbf8030224898c0414b7abee
-    time: 1441079198
+    time: 1441079248
   locations/sps-jack-brause-library/index.html:
     sha: 75cbf35ba270db356e3240707a5890cd1fb49dc9
-    time: 1441079198
+    time: 1441079248
   locations/the-new-school-libraries-archives-raymond-fogelman-social-sciences-and-humanities-library/index.html:
     sha: 158276323ca91be5064d1cee1bc0232ff5c1d4fe
-    time: 1441079198
+    time: 1441079248
   locations/conservation-center-library/index.html:
     sha: b3784efb0982dbc345497a63fae0d6b19b8ab17d
-    time: 1441079198
+    time: 1441079248
   locations/nelson-institute-of-environmental-medicine/index.html:
     sha: e3879afe19687025a7e2becfeeb83d3a8c90f36f
-    time: 1441079198
+    time: 1441079248
   style-guide/forms/index.html:
     sha: 19d95a4d618983e470eaef73682f2f57998f46bc
-    time: 1441079198
+    time: 1441079248
   style-guide/index.html:
     sha: 1a57b59627cc843b3e70838fa1d1b67dbadb6f5b
-    time: 1441079198
+    time: 1441079248
   style-guide/grid/index.html:
     sha: 715434a4a7c9e273b0b05bb82466d86938bae741
-    time: 1441079198
+    time: 1441079248
   style-guide/basic/index.html:
     sha: 7ffb567610a67e61ebcb4b7cc3d6466a90584809
-    time: 1441079198
+    time: 1441079248
   style-guide/color/index.html:
     sha: d84c807be578ded77270828043cbd77d1588df20
-    time: 1441079198
+    time: 1441079248
   style-guide/questionpoint/index.html:
     sha: 745efd491c74cdb828bc7faf91ff0d3255a58640
-    time: 1441079198
+    time: 1441079248
   style-guide/images/index.html:
     sha: 8acb60f65b0afdb6545eb75cf276a3a546ef7363
-    time: 1441079198
+    time: 1441079248
   style-guide/markdown/index.html:
     sha: e73a3094094b816da86baecd1679705ab6a67ec4
-    time: 1441079198
+    time: 1441079248
   style-guide/typography/index.html:
     sha: 1d446fbe08c1dc9c8c2d25402dcda667d6525b44
-    time: 1441079198
+    time: 1441079248
   style-guide/items/index.html:
     sha: 962360b30824c33100006cc9d16cd97b4629c73a
-    time: 1441079198
+    time: 1441079248
   robots.txt:
     sha: e6ea63ed0828010f6ea6007284639259fbccf8d1
-    time: 1441079198
+    time: 1441079248
   nyu.sublime-project:
     sha: 1bf327e18b50d1ec137717e72cf87e3711841a8a
-    time: 1441079198
+    time: 1441079248
   about/index.html:
     sha: 10b3cc8683ed2fdbdb7c243e1e2e74c3361931bb
-    time: 1441079198
+    time: 1441079248
   README.md:
     sha: 727f094f8f4fb400d78ee8e77f7fa9e32e090242
-    time: 1441079198
+    time: 1441079248
   spaces/bobst-ll2-16/index.html:
     sha: 03d56ca21ec93d3f1f979e70c6361d2169519988
-    time: 1441079198
+    time: 1441079248
   spaces/bobst-732/index.html:
     sha: f2325e0ddfac096545f4d9bb1abbdcaf627f5bf9
-    time: 1441079198
+    time: 1441079248
   spaces/index.html:
     sha: 589cd381ed19031f735a5bc53385c58417ecfa4c
-    time: 1441079198
+    time: 1441079248
   spaces/research-commons/index.html:
     sha: e2454be540e83d704bcdb8db53d071eeb5b175f2
-    time: 1441079198
+    time: 1441079248
   spaces/bobst-404/index.html:
     sha: 352576e845d1543634db12a4e9766c42d7c0f36a
-    time: 1441079198
+    time: 1441079248
   spaces/bobst-ll1-22/index.html:
     sha: 68e142c16bba70e910d8c2eab1073c08b5c520ee
-    time: 1441079198
+    time: 1441079248
   people/kelly-johnson/index.html:
     sha: 6967d40312196a27b6764b2bc69c6dfb389d1893
-    time: 1441079198
+    time: 1441079248
   people/iris-bierlein/index.html:
     sha: 489b38cf07034817c05dcbebe9fe5b20d5b68666
-    time: 1441079198
+    time: 1441079248
   people/index.html:
     sha: 531f1908c37e6bbed473b4f1dae1331efb3608d4
-    time: 1441079198
+    time: 1441079248
   people/tal-rozen/index.html:
     sha: ff7ef37501c8b9389a4c447fe6a844a30a020fdb
-    time: 1441079198
+    time: 1441079248
   people/rachel-searcey/index.html:
     sha: 6070cc183e7b45f723897a8b63fb9694f1282641
-    time: 1441079198
+    time: 1441079248
   people/rachel-pisciotta/index.html:
     sha: 196947e74815979daca22b6c9460366b0e663adc
-    time: 1441079198
+    time: 1441079248
   people/nadaleen-templeman-kluit/index.html:
     sha: 5c3b82095ca4e9ebdf50662a7d1d1fd7dd442957
-    time: 1441079198
+    time: 1441079248
   people/michael-hughes/index.html:
     sha: 9a0a28e6bac7741d0341688ce1d269c6df0fd4d5
-    time: 1441079198
+    time: 1441079248
   people/charling-fagan/index.html:
     sha: 2ff1f86857ab7946f9a53f064af8d9f408e27e5c
-    time: 1441079198
+    time: 1441079248
   people/kristina-rose/index.html:
     sha: 908de8a7bc3a5ed852058bba1c2e7a8d3f2575fe
-    time: 1441079198
+    time: 1441079248
   people/scott-collard/index.html:
     sha: 1b5506d73a714d2d0f15e9df52df2ce39213d29c
-    time: 1441079198
+    time: 1441079248
   people/camelia-anghel/index.html:
     sha: b995a0176b3fce5d83bc1e25c41ba943d2f0e548
-    time: 1441079198
+    time: 1441079248
   404.html:
     sha: fc0a1c27a1a61685e50cab1ee5187660eeb285c8
-    time: 1441079198
+    time: 1441079248
   services/transferring-media/index.html:
     sha: 941b94bd425491947a12bdc0b8ab1486250e9227
-    time: 1441079198
+    time: 1441079248
   services/scanning/index.html:
     sha: 7b7fdfa328dd4d41cb832c498b4ad776de9ce10b
-    time: 1441079198
+    time: 1441079248
   services/post-production-and-editing/index.html:
     sha: 45c33338811d6c2894e2631e1577a3ddc0fd3162
-    time: 1441079198
+    time: 1441079248
   services/index.html:
     sha: e1a2459b7c960cf3d89f43053d5f5bd53372fa7d
-    time: 1441079198
+    time: 1441079248
   assets/images/search-bg.jpg:
     sha: c6c6c31f990fea448738c52799534bc3f0882eef
-    time: 1441079198
+    time: 1441079248
   assets/images/nyu-footer-logo.svg:
     sha: db74f0dbe5382243175fc512661ba21f967171e5
-    time: 1441079198
+    time: 1441079248
   assets/images/pin-orange.png:
     sha: ccc24a85fcea39129f8a193bf44eee79e6f9098a
-    time: 1441079198
+    time: 1441079248
   assets/images/banner-bg.png:
     sha: 20978feaf3b87e149700a472dd6d969daa138f3e
-    time: 1441079198
+    time: 1441079248
   assets/images/loader.svg:
     sha: c4781006d2e5bd233fe2e3fd49e8d00ccbf53ee8
-    time: 1441079198
+    time: 1441079248
   assets/images/favicon.png:
     sha: cf6f5e4e2e965c4b456bf6b598cfa9023a6dd6b8
-    time: 1441079198
+    time: 1441079248
   assets/images/pin-purple.png:
     sha: 28b8b1853b03ad0caf99be0d42ab600d11f982cf
-    time: 1441079198
+    time: 1441079248
   assets/images/nyulibraries-logo.svg:
     sha: 18b3799f004ba80dd0d9f3c357cea8e9ca57bdcb
-    time: 1441079198
+    time: 1441079248
   assets/images/select-arrow.svg:
     sha: fdaabde313c75b7b43933a81d72712bf3d160ca4
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/plugins/stretchy.min.js.map:
     sha: a6c79d01cd1e1546e37439d794bfefb637767004
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/plugins/stretchy.min.js:
     sha: 095843550bd081c67dd8cf5c1ca78295470a57b3
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/polyfills/ie.js.map:
     sha: 544a6e0fcdbaf8bf666cd3cade9125fd85f722a0
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/polyfills/ie.js:
     sha: ea08d7dee35863df34921e5ec2a3a818a15e15f0
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/polyfills/respond.min.js.map:
     sha: cf3eaf1dae2d9f90919aacee898dc376b85aeebe
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/polyfills/respond.min.js:
     sha: cf96a50ead017675a1a99a15b8b382fa290fe05e
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/global.min.js:
     sha: 4d31960dea9ffe707cad0205a94082927e2a4349
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/html5shiv.min.js:
     sha: cefdd69b7aba73b2ab6c13d5312602c6997e96bb
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/collection.min.js:
     sha: 8a2de9b991701165329dc52d6bf5d7f0a7ccfc3b
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/global.min.js.map:
     sha: d8804f09ddbe9667cbfcb1aa0f90815732b23df8
-    time: 1441079198
+    time: 1441079248
   assets/js/dist/collection.min.js.map:
     sha: d888d1810719f3163f6cd3e7e990f1cf0486b876
-    time: 1441079198
+    time: 1441079248
   assets/css/global.css:
     sha: d88c4b4a5de5b7d23fa67a8cd935c6b338fa1de8
-    time: 1441079198
+    time: 1441079248
   assets/css/style-guide.css:
     sha: 72bc0d412b0e3c1995ee7929013460b5376c8e87
-    time: 1441079198
+    time: 1441079248
   assets/fonts/ss-nyu-libraries.eot:
     sha: dc004c106f34afe10eab6e44589ff59ffaf88d57
-    time: 1441079198
+    time: 1441079248
   assets/fonts/ss-nyu-libraries.woff:
     sha: 488ba487079adeafd6d8cad761a203106dd97747
-    time: 1441079198
+    time: 1441079248
   assets/fonts/ss-nyu-libraries.svg:
     sha: ecec95becd077e9b1192dc0a80e44e86829dc7c2
-    time: 1441079198
+    time: 1441079248
   assets/fonts/ss-nyu-libraries.ttf:
     sha: a3db0dc6e838083c44c4f02b8c230b28ee828f73
-    time: 1441079198
+    time: 1441079248
   departments/index.html:
     sha: 0a86fcb7f18655bdab77210772ff0fc104c2fc02
-    time: 1441079198
+    time: 1441079248
   departments/fales-library/index.html:
     sha: 821d7c6ea9cf0de39a8153839a3df8f6a1acd440
-    time: 1441079198
+    time: 1441079248
   departments/digital-studio/index.html:
     sha: b1d2a3643382fc3d2be8ad2786f531369e6a31ab
-    time: 1441079198
+    time: 1441079248
   departments/social-sciences-and-humanities-reference/index.html:
     sha: 1271ab88bcf4fa487c40e475f90dd56049d899e8
-    time: 1441079198
+    time: 1441079248
   departments/data-services/index.html:
     sha: 9de1745109aa7a26aea891f56faa4ff9211d1ffa
-    time: 1441079198
+    time: 1441079248
   departments/user-experience/index.html:
     sha: 63e17e53920f08667be2189b865557d47f22a314
-    time: 1441079198
+    time: 1441079248
   departments/institute-of-fine-arts-library/index.html:
     sha: 083bf4dfc1f4915b45ea2a34a3cda6b578f959f5
-    time: 1441079198
+    time: 1441079248
   departments/development/index.html:
     sha: dca46d257db0aa7b4be6d8b2c1dc94c766e9a608
-    time: 1441079198
+    time: 1441079248
   departments/digital-scholarship-services/index.html:
     sha: 3c8dc6f9a340433ab521098e911f343d8e2a0180
-    time: 1441079198
+    time: 1441079248
   departments/library-information-technology-services/index.html:
     sha: c440d19f2388eedc652c2f35b1b78f93c6ba1565
-    time: 1441079198
+    time: 1441079248
   departments/access-delivery-resource-sharing-services/index.html:
     sha: 42923ce02d8dd7e416a27bf9645cff43f2ffdb1a
-    time: 1441079198
+    time: 1441079248
   departments/business-government-information-services/index.html:
     sha: 1afb651bb47bdbc363d97f99e351bad678f7a1ca
-    time: 1441079198
+    time: 1441079248
   departments/digital-library-technology-services/index.html:
     sha: 758f0e8adde2991c356013a3f9e42439f72cdc42
-    time: 1441079198
+    time: 1441079248
   departments/instructional-undergraduate-global-services/index.html:
     sha: 9f5886bdb5fed6f8e76401385ad6f655523535e9
-    time: 1441079198
+    time: 1441079248
   departments/tamiment-library/index.html:
     sha: d2eb0d5706f4ae3582d3d0e666675d161cb5a7ac
-    time: 1441079198
+    time: 1441079248
   Gruntfile.js:
     sha: e8acd11ebb4bcf207249bd7513629d8e71bd3bfc
-    time: 1441079198
+    time: 1441079248
   package.json:
     sha: 3fe65cff83e6f0f193be14320bfdbd296681a99d
-    time: 1441079198
+    time: 1441079248
